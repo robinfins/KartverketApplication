@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartverketApplication", "KartverketApplication\KartverketApplication.csproj", "{FA3428BA-A1C4-47AF-AD1D-D5E730051466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3428BA-A1C4-47AF-AD1D-D5E730051466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3428BA-A1C4-47AF-AD1D-D5E730051466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3428BA-A1C4-47AF-AD1D-D5E730051466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3428BA-A1C4-47AF-AD1D-D5E730051466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
